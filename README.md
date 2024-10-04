@@ -1,3 +1,5 @@
 # Calculator
 **WORK IN PROGRESS**
-it's a side project 
+
+
+*it's a side project*
